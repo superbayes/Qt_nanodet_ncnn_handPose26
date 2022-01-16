@@ -9,4 +9,4 @@ American Sign Language Letter Recognition(美国手语字母识别)
 * opencv 4.5.2
 
 # res
-![image]()
+![image](https://github.com/superbayes/Qt_nanodet_ncnn_handPose26/blob/main/QtProject/hands26/hands26_nanodet.gif)
