@@ -5,6 +5,7 @@ American Sign Language Letter Recognition(美国手语字母识别,26个字母�
 * Qt 5.12.9
 * C++
 * ncnn
+* Vulkan 1.2.198.1
 * nanodet
 * opencv 4.5.2
 
